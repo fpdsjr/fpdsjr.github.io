@@ -1,0 +1,41 @@
+body {
+    background-color: #00bbf9;
+    font-family: 'Baloo Chettan 2', cursive;
+    padding: 3%;
+}
+
+.lista {
+    font-size: 20px;
+}
+
+.negrito {
+    font-weight: 700;
+}
+
+.minhafoto {
+    float: left;
+    height: 380px;
+    padding: 10px;
+    background-color: gold;
+
+}
+
+.image-container {
+    height: 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.descricao {
+    position: absolute;
+    top: 280px;
+    left: 500px;
+}
+
+ul li:nth-child(odd){
+    background-color: gold;
+    width: 90px;
+}
+
